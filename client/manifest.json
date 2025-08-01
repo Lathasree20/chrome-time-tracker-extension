@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Time Tracker & Productivity Analytics",
+  "version": "1.0",
+  "permissions": ["tabs", "storage", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Time Tracker"
+  },
+  "icons": {
+    "16": "assets/icon.png",
+    "48": "assets/icon.png",
+    "128": "assets/icon.png"
+  }
+}
