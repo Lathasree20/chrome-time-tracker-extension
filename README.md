@@ -55,3 +55,5 @@ To run the Chrome Extension, open the Chrome browser and go to chrome://extensio
 To run the backend, open a terminal and navigate to the server folder. Install the dependencies using npm install. Start the server by running node index.js. Make sure MongoDB is running on your system or update the database connection string to point to your cloud instance.
 
 OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/8be1387c-4caa-4bf6-9917-88f4009514a0)
